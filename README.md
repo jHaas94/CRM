@@ -1,5 +1,6 @@
 # CRM
-The task was to create a CRM programm with a connection to a database. We had to implement the task by using PHP, Javascript, HTML and a CSS Framework of choice. I've used Bootstrap as a Framework.
+I've created a CRM programm with a connection to a database. I've implemented it by using PHP, Javascript, HTML and a CSS Framework (Bootstrap).
+
 Features:
 User-Registration
 User-Login
